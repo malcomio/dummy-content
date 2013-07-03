@@ -15,7 +15,7 @@ Sample lorem ipsum content in multiple file formats:
         * ppt
         * pptx
 * Open Document Format
-        * odt
+    * odt
 * Video (taken from http://techslides.com/sample-webm-ogg-and-mp4-video-files-for-html5/)
     * MP4
     * WebM
