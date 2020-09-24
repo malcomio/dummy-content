@@ -1,8 +1,17 @@
 dummy-content
 =============
 
-Sample lorem ipsum content in multiple file formats:
+Sample content in multiple file formats:
 
+* Audio
+    * MP3
+* Code
+    * js
+    * css
+* Image
+    * gif
+    * jpg
+    * png
 * PDF
 * MS Office
     * MS Word
